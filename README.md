@@ -7,6 +7,7 @@ cd HFBSurv
 
 # Run the main routine
 cd model
+
 python train_cv.py
 
 
