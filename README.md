@@ -7,7 +7,7 @@ git clone https://github.com/Liruiqing-ustc/HFBSurv.git
 cd HFBSurv
 
 # Run the main routine
-Example shown below for training or testing:
+Examples shown below for training or testing:
 
 Trainging:
 
