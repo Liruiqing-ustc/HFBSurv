@@ -1,6 +1,9 @@
 # HFBSurv: Hierarchical multimodal fusion with factorized bilinear models for cancer survival prediction
- The implementation of HFBSurv in Python 3.6.13 under Linux with CPU Intel Xeon 4110 @ 2.10GHz, GPU NVIDIA GeForce RTX 2080 Ti, and 192GB of RAM. It follows a modern deep learning design and is implemented by PyTorch platform.
+ HFBSurv follows a modern deep learning design and is implemented by PyTorch platform.
 # Installation
-git clone 
-cd HFBSurv
-1
+Download Anaconda from https://www.anaconda.com/download/#linux/ with python 3 version.
+Install Pytorch, tqdm, imblearn, and lifelines.
+conda install pytorch torchvision -c pytorch
+conda install -c conda-forge tqdm
+conda install -c conda-forge imbalanced-learn
+conda install -c conda-forge lifelines
