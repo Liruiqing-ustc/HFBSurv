@@ -3,12 +3,14 @@
  
 # Installation
 git clone https://github.com/Liruiqing-ustc/HFBSurv.git
+
 cd HFBSurv
 
 # Run the main routine
 cd model
 
 python train_cv.py
+
 
 
 
