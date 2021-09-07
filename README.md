@@ -8,10 +8,11 @@ cd HFBSurv
 
 # Run the main routine
 cd model
+
 python test_cv.py
 
 # Acknowledgments
-This code is inspired by SALMON and Pathomic Fusion, code base structure was inspired by PathomicFusion.
+This code is inspired by SALMON and Pathomic Fusion.
 
 
 
