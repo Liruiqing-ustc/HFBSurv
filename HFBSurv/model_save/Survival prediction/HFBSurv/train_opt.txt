@@ -1,0 +1,19 @@
+----------------- Options ---------------                         
+                    beta1: 0.9                           
+                    beta2: 0.999                         
+                 dataroot: /media/disk01/liruiqing/Abalation_study/HFBSurv/data/
+                 datatype: trimodal_data_5folds.pkl      
+              epoch_count: 1                             
+                 exp_name: Survival prediction           
+                  gpu_ids: 1                             
+               lambda_reg: 0.003                         
+                       lr: 0.00012                       
+                  measure: 1                             
+               model_name: HFBSurv                       
+               model_save: /media/disk01/liruiqing/Abalation_study/HFBSurv/model_save/
+                    niter: 0                             
+              niter_decay: 100                           
+                  results: /media/disk01/liruiqing/Abalation_study/HFBSurv/results/
+                  verbose: 1                             
+             weight_decay: 1e-06                         
+----------------- End -------------------
