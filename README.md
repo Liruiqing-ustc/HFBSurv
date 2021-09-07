@@ -7,7 +7,17 @@ git clone https://github.com/Liruiqing-ustc/HFBSurv.git
 cd HFBSurv
 
 # Run the main routine
+Example shown below for training or testing:
+
+Trainging:
+
 cd model
+
+python train_cv.py
+
+Testing:
+
+cd nodel
 
 python test_cv.py
 
