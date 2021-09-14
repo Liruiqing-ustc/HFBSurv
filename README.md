@@ -9,7 +9,7 @@ cd HFBSurv
 # Run the main routine
 Examples shown below for training or testing:
 
-Trainging:
+Training:
 
 cd model
 
@@ -17,7 +17,7 @@ python train_cv.py
 
 Testing:
 
-cd nodel
+cd model
 
 python test_cv.py
 
